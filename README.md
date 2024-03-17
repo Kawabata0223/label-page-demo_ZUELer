@@ -8,17 +8,17 @@
 
 ### 1. 选择 pycharm 打开 标签化评论区demo.html
 
-![[QQ截图20240317194543.png|725]]
+![image](https://github.com/Kawabata0223/label-page-demo_ZUELer/blob/master/pic/QQ%E6%88%AA%E5%9B%BE20240317194543.png)
 
 
 ### 2. 在第122行选择载入的微博评论区xlsx文件
 
-![[Pasted image 20240317195214.png]]
+![image](https://github.com/Kawabata0223/label-page-demo_ZUELer/blob/master/pic/Pasted%20image%2020240317195214.png)
 
 
 ### 3. 在 pycharm 中用浏览器打开，生成标签化评论区
 
-![[Pasted image 20240317194852.png]]
+![image](https://github.com/Kawabata0223/label-page-demo_ZUELer/blob/master/pic/Pasted%20image%2020240317194852.png)
 
 
-![[Pasted image 20240317195613.png|600]]
+![image](https://github.com/Kawabata0223/label-page-demo_ZUELer/blob/master/pic/Pasted%20image%2020240317195613.png)
